@@ -55,32 +55,8 @@ Masukkan perintah dibawah untuk menginstall Autoscript Premium
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Suhenn/Asep/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
-## INSTALL SCRIPT Menu 2
-Masukkan perintah dibawah untuk menginstall Autoscript Premium Menu 2
-```html
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Suhenn/Asep/main/setup2.sh && chmod +x setup2.sh && ./setup2.sh
-```
-
-## INSTALL SCRIPT Menu 3
-Masukkan perintah dibawah untuk menginstall Autoscript Premium Menu 3
-```html
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Suhenn/Asep/main/setup3.sh && chmod +x setup3.sh && ./setup3.sh
-```
-
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```html
 wget -q https://raw.githubusercontent.com/Suhenn/Asep/main/update.sh && chmod +x update.sh && ./update.sh
-```
-
-## UPDATE SCRIPT Menu 2
-Masukkan perintah dibawah jika terdapat informasi pembaruan Script Menu 2 untuk versi yang akan datang
-```html
-wget -q https://raw.githubusercontent.com/Suhenn/Asep/main/update2.sh && chmod +x update2.sh && ./update2.sh
-```
-
-## UPDATE SCRIPT Menu 3
-Masukkan perintah dibawah jika terdapat informasi pembaruan Script Menu 3 untuk versi yang akan datang
-```html
-wget -q https://raw.githubusercontent.com/Suhenn/Asep/main/update3.sh && chmod +x update3.sh && ./update3.sh
 ```
